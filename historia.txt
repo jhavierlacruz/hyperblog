@@ -1,9 +1,5 @@
-esta es la historia verdadera
-28 años
-Estoy estudiando Git
+Esta es la historia de Freddy Vega
 
-Agrege estatura
+Freddy Vega tiene 32 años y nació en Colombia
 
-PRUEBA ANUAL DE DISEÑO
-
-SI LO LOGRAREMOS
+Mañana nos enfocaremos en su vida laboral

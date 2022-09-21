@@ -2,10 +2,8 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
-<<<<<<< HEAD
+<<<<<<
 Cambio de Vida
 
 Mañana nos enfocaremos en su vida laboral y obra maestra
-=======
-Mañana nos enfocaremos en su vida laboral
->>>>>>> 875f796e2df7bfd9267975a915756a6d383817f1
+Jhavier La Cruz tiene 28 años es una persona que contribuye ha esta proyecto open soft
